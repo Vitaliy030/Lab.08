@@ -1,0 +1,5 @@
+Ticket number:			The name of the buyer:			The title of the film:			Ticket price:			Payment status:
+39540625			Orkush					Eyes_Without_a_Face			54,2				Paid
+59658877			Lukash					Lawrence_of_Arabia			68,8				Unpaid
+56848647			Lavrin					Shadow_of_a_Doubt			45,9				Unpaid
+99237566			Romanko					The_Wizard_of_Oz			45,7				Paid
